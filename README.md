@@ -1,0 +1,1 @@
+This project downloads a Spotify playlist and was made 100% by me. It uses the spotify API to get the link of a playlist and collect the song names off of it. The program then goes and searches each name on yYouTube and download the audio of each song on the playlist.
