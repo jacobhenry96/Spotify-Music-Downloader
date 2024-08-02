@@ -58,7 +58,7 @@ for item in search:
     music_list.append(item['track']['name'])
     print(item['track']['name'])
 
-api_key = 'AIzaSyAFmb5Dj0p4a9UwxQYUB6n7Zu0He79XV4U'
+api_key = 'API KEY'
 youtube_url = "https://www.googleapis.com/youtube/v3/search"
 video_ids = []
 for name in music_list:
